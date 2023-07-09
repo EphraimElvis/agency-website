@@ -21,3 +21,8 @@ p {
 .l-bloc {
   color: #000000;
 }
+
+.col-sm-6 {
+  padding-right: 30px;
+  padding-left: 30px;
+}
