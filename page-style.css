@@ -26,3 +26,11 @@ p {
   padding-right: 30px;
   padding-left: 30px;
 }
+.btn-atomic-tangerine {
+  background: #9A370E!important;
+  color: #fff!important;
+}
+
+.ltc-atomic-tangerine {
+  color: #9A370E!important;
+}
